@@ -14,18 +14,18 @@ There are two portions to this curriculum:
 | Subject                       | Topic  | Sources |
 |-------------------------------|--------|---------|
 Introduction| <ul><li>- [x] White Paper</li></ul> |[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)|
-Introduction|If I'd Known What We Were Starting (2017)|[If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/)|
-Introduction|Bitcoin's Academic Pedigree (2017)|[Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)|
-Introduction|Intro to Blockchain|[What is blockchain anyway?](https://www.youtube.com/watch?v=on5ySFK0aoY)|
-Introduction|Intro to Blockchain|[Electronic cash explained for developers video](https://www.youtube.com/watch?v=TrF9RmfyLbw)|
-Introduction|The Economic Limits of Bitcoin and the Blockchain|[The Economic Limits of Bitcoin and the Blockchain](https://faculty.chicagobooth.edu/eric.budish/research/Economic-Limits-Bitcoin-Blockchain.pdf)|
-Introduction|Proof of work|[The Anatomy of Proof-of-Work](https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667), [Bitcoin Developer Reference](https://lopp.net/pdf/Bitcoin_Developer_Reference.pdf)|
-Introduction|Difficulty adjustment|[What keeps the average block time at 10 minutes?](https://bitcoin.stackexchange.com/questions/855/what-keeps-the-average-block-time-at-10-minutes/857#857)|
-Introduction|Byzantine generals problem|[The Byzantine Generals Problem](http://diyhpl.us/~bryan/papers2/bitcoin/The%20Byzantine%20generals%20problem%20-%20Lamport%20-%201982.pdf)|
-Introduction|Running a full node|[Full Node Question](https://www.reddit.com/r/BitcoinBeginners/comments/3eq3y7/full_node_question/ctk4lnd/)|
-History & Philosophy of Bitcoin|History of Bitcoin Development| [The Incomplete History of Bitcoin Development](https://b10c.me/The-incomplete-history-of-Bitcoin-development/)|
-History & Philosophy of Bitcoin|What is consensus?| [Consensus Algorithms, Blockchain Technology and Bitcoin](https://www.youtube.com/watch?v=fw3WkySh_Ho)|
-Soft Forks & protocol overview|On Unstoppability of Softforks|[On Unstoppability of Softforks](https://zmnscpxj.github.io/bitcoin/unpreventable-softforks.html)|
+Introduction| <ul><li>- [x] If I'd Known What We Were Starting (2017)</li></ul> |[If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/)|
+Introduction| <ul><li>- [x] Bitcoin's Academic Pedigree (2017)</li></ul> |[Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)|
+Introduction| <ul><li>- [x] Intro to Blockchain</li></ul> |[What is blockchain anyway?](https://www.youtube.com/watch?v=on5ySFK0aoY)|
+Introduction| <ul><li>- [x] Intro to Blockchain</li></ul> |[Electronic cash explained for developers video](https://www.youtube.com/watch?v=TrF9RmfyLbw)|
+Introduction| <ul><li>- [x] The Economic Limits of Bitcoin and the Blockchain</li></ul> |[The Economic Limits of Bitcoin and the Blockchain](https://faculty.chicagobooth.edu/eric.budish/research/Economic-Limits-Bitcoin-Blockchain.pdf)|
+Introduction| <ul><li>- [x] Proof of work</li></ul> |[The Anatomy of Proof-of-Work](https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667), [Bitcoin Developer Reference](https://lopp.net/pdf/Bitcoin_Developer_Reference.pdf)|
+Introduction| <ul><li>- [x] Difficulty adjustment</li></ul> |[What keeps the average block time at 10 minutes?](https://bitcoin.stackexchange.com/questions/855/what-keeps-the-average-block-time-at-10-minutes/857#857)|
+Introduction| <ul><li>- [ ] Byzantine generals problem</li></ul> |[The Byzantine Generals Problem](http://diyhpl.us/~bryan/papers2/bitcoin/The%20Byzantine%20generals%20problem%20-%20Lamport%20-%201982.pdf)|
+Introduction| <ul><li>- [ ] Running a full node</li></ul> |[Full Node Question](https://www.reddit.com/r/BitcoinBeginners/comments/3eq3y7/full_node_question/ctk4lnd/)|
+History & Philosophy of Bitcoin| <ul><li>- [ ] History of Bitcoin Development</li></ul> | [The Incomplete History of Bitcoin Development](https://b10c.me/The-incomplete-history-of-Bitcoin-development/)|
+History & Philosophy of Bitcoin| <ul><li>- [ ] What is consensus?</li></ul> | [Consensus Algorithms, Blockchain Technology and Bitcoin](https://www.youtube.com/watch?v=fw3WkySh_Ho)|
+Soft Forks & protocol overview| <ul><li>- [ ] On Unstoppability of Softforks</li></ul> |[On Unstoppability of Softforks](https://zmnscpxj.github.io/bitcoin/unpreventable-softforks.html)|
 Soft Forks & protocol overview|Example soft forks|[Softfork wiki page](https://en.bitcoin.it/wiki/Softfork)|
 Soft Forks & protocol overview|Forking signaling and Activation|[Forks, Signaling, and Activation](https://medium.com/@elombrozo/forks-signaling-and-activation-d60b6abda49a)|
 Soft Forks & protocol overview|Fork categorization (soft, hard, evil, etc.)|[Better Fork Terminology](http://www.truthcoin.info/blog/protocol-upgrade-terminology/), [Forced Soft Forks](https://petertodd.org/2016/forced-soft-forks)|
